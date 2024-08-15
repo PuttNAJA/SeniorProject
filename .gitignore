@@ -75,3 +75,4 @@ DerivedDataCache/*
 
 *.log
 **/Crashes/
+/raw_asset/*

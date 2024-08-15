@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal/SeniorProject/src/Project/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal/SeniorProject/src/Project/Content/Map/BR_Normal01.umap"
+			]
+		}
+	]
+}
