@@ -6,7 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Unreal/SeniorProject/src/Project/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/Unreal/SeniorProject/src/Project/Content/Map/BR_Normal01.umap"
+				"D:/Unreal/SeniorProject/src/Project/Content/Map/BR_Normal01.umap",
+				"D:/Unreal/SeniorProject/src/Project/Content/Blueprint/GM_GameMode.uasset",
+				"D:/Unreal/SeniorProject/src/Project/Content/Map/TestPlayer.umap",
+				"D:/Unreal/SeniorProject/src/Project/Content/Blueprint/Character/BP_PlayerCharecter.uasset",
+				"D:/Unreal/SeniorProject/src/Project/Content/Blueprint/Weapon/BP_RifleGun.uasset",
+				"D:/Unreal/SeniorProject/src/Project/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Unreal/SeniorProject/src/Project/Content/Blueprint/BP_PlayerCharecter.uasset"
 			]
 		}
 	]
